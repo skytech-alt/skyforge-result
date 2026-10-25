@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-result"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Result и Option для безопасной обработки ошибок на SkyForge."
+    репозиторий = "github.com/skytech-alt/skyforge-result"
+    точка_входа = "code/main.skf"
+    теги = ["result", "option", "fp", "error-handling"]
+    лицензия = "MIT"
+    зависимости = []
+}
